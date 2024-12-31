@@ -8,6 +8,7 @@ Hibernate library
 MySQL (or another database of your choice)
 IDE (like IntelliJ IDEA, Eclipse, or VS Code)
 Project Structure
+
 ├── src
 │   ├── com.entity
 │   │   ├── Account.java
